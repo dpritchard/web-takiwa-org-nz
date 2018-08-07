@@ -1,10 +1,8 @@
-# takiwa.org.nz
-
 The old takiwa.org.nz site is gone, but the project continues.
 
-Perhaps the most useful pages on the old site was [the reports][rpts], which are [still available here][rpts].
+Perhaps the most useful page on the old site was [the reports][rpts], which are [still available here][rpts].
 
-Development continues internally within the Te Rūnanga o Ngāi Tahu Mahinga Kai Monitoring team.
+Work on this project continues internally within the Te Rūnanga o Ngāi Tahu Mahinga Kai Monitoring team.
 
 ## Publicly Available Information / Tools
 

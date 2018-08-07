@@ -1,0 +1,17 @@
+# takiwa.org.nz
+
+The old takiwa.org.nz site is gone, but the project continues.
+
+Perhaps the most useful pages on the old site was [the reports][rpts], which are [still available here][rpts].
+
+Development continues internally within the Te Rūnanga o Ngāi Tahu Mahinga Kai Monitoring team.
+
+## Publicly Available Information / Tools
+
+- [Ngāi Tahu State of the Takiwā Assessment Tools (NTSTAT) R Package][ntstatR]
+- [NTSTAT Marine Assessment Calculator][statm]
+
+
+[ntstatR]: https://github.com/dpritchard/ntstatR
+[statm]: https://dpritchard.ocpu.io/ntstatR/www/statm.html
+[rpts]: ./pages/reports.md
